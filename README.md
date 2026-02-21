@@ -10,12 +10,17 @@ editor_options:
 advertising pricing decisions (Melbourne case study).**
 
 This project analyses pedestrian foot traffic at three major Melbourne
-CBD locations: - **QV Melbourne** - **Southern Cross Station** -
-**Flinders Street Station**
+CBD locations: 
+
+- QV Melbourne 
+- Southern Cross Station 
+- Flinders Street Station
 
 The analysis is designed to support **evidence-based decision making**
-for: 1) **Pedestrian infrastructure design**, and 2) **Performance-based
-advertising revenue optimisation** under uncertainty.
+for: 
+
+1) **Pedestrian infrastructure design**, and 
+2) **Performance-based advertising revenue optimisation** under uncertainty.
 
 This project is presented as a **portfolio case study**, adapted from
 postgraduate analytics coursework and professional practice.
