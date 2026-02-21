@@ -1,0 +1,25 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.RDS
+
+# Quarto
+.quarto/
+*_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / credentials
+.Renviron
+.Renviron.*
+.httr-oauth
+
+# Logs
+*.log
+
+/.quarto/
+**/*.quarto_ipynb
