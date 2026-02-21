@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Pedestrian Foot Traffic Analytics for Advertising Revenue Optimisation
 
 **Urban mobility analytics to support infrastructure design and
